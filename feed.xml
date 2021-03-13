@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-03-14T03:44:59+08:00</updated><id>/feed.xml</id><title type="html">eg0n.com</title><subtitle>A site for music created by eg0n on his modular synthesizer.</subtitle><author><name>eg0n</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-02-13T14:28:51+08:00</published><updated>2021-02-13T14:28:51+08:00</updated><id>/posts/welcome-to-jekyll</id><content type="html" xml:base="/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find thjfkldjsa;fjdslkafjdlksajf;lkdsajf;lkdsjalkgjfdlkg;jfdg
-jg
-fjdag
-jfda
-gfdagjfdlkgjfdlkgjlkfdsjglkfdsjgflkdsjgsglijfdigdoigjdsoigjdsiogfjdsoigjfdsogjoifdsjgoirjaoigjgoirejgoijs&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
-jiojglifds
-.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
-jiojglifds
-.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
-jiojglifds
-.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
-jiojglifds
-…..&lt;/p&gt;</content><author><name>eg0n</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find thjfkldjsa;fjdslkafjdlksajf;lkdsajf;lkdsjalkgjfdlkg;jfdg jg fjdag jfda gfdagjfdlkgjfdlkgjlkfdsjglkfdsjgflkdsjgsglijfdigdoigjdsoigjdsiogfjdsoigjfdsogjoifdsjgoirjaoigjgoirejgoijs</summary></entry><entry><title type="html">Getting Started</title><link href="/posts/testing/" rel="alternate" type="text/html" title="Getting Started" /><published>2021-02-09T20:55:00+08:00</published><updated>2021-02-09T20:55:00+08:00</updated><id>/posts/testing</id><content type="html" xml:base="/posts/testing/">&lt;h1 id=&quot;this-is-a-really-big-title&quot;&gt;This is a really big title&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-03-14T03:47:11+08:00</updated><id>/feed.xml</id><title type="html">eg0n.com</title><subtitle>A site for music created by eg0n on his modular synthesizer.</subtitle><author><name>eg0n</name></author><entry><title type="html">Getting Started</title><link href="/posts/testing/" rel="alternate" type="text/html" title="Getting Started" /><published>2021-03-09T20:55:00+08:00</published><updated>2021-03-09T20:55:00+08:00</updated><id>/posts/testing</id><content type="html" xml:base="/posts/testing/">&lt;h1 id=&quot;this-is-a-really-big-title&quot;&gt;This is a really big title&lt;/h1&gt;
 
 &lt;h2 id=&quot;this-is-a-big-title&quot;&gt;This is a big title&lt;/h2&gt;
 
@@ -42,7 +24,25 @@ jiojglifds
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Here is a vimeo:&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/517384740&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">This is a really big title</summary></entry><entry><title type="html">2019dfkGetting Started</title><link href="/posts/go19/" rel="alternate" type="text/html" title="2019dfkGetting Started" /><published>2019-02-09T20:55:00+08:00</published><updated>2019-02-09T20:55:00+08:00</updated><id>/posts/go19</id><content type="html" xml:base="/posts/go19/">&lt;p&gt;jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+&lt;iframe src=&quot;https://player.vimeo.com/video/517384740&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">This is a really big title</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-02-13T14:28:51+08:00</published><updated>2021-02-13T14:28:51+08:00</updated><id>/posts/welcome-to-jekyll</id><content type="html" xml:base="/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find thjfkldjsa;fjdslkafjdlksajf;lkdsajf;lkdsjalkgjfdlkg;jfdg
+jg
+fjdag
+jfda
+gfdagjfdlkgjfdlkgjlkfdsjglkfdsjgflkdsjgsglijfdigdoigjdsoigjdsiogfjdsoigjfdsogjoifdsjgoirjaoigjgoirejgoijs&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
+jiojglifds
+.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
+jiojglifds
+.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
+jiojglifds
+.jfidjsagrh59phjoirsjgoifdjsgilfdjgklfdsjgfds
+jiojglifds
+…..&lt;/p&gt;</content><author><name>eg0n</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find thjfkldjsa;fjdslkafjdlksajf;lkdsajf;lkdsjalkgjfdlkg;jfdg jg fjdag jfda gfdagjfdlkgjfdlkgjlkfdsjglkfdsjgflkdsjgsglijfdigdoigjdsoigjdsiogfjdsoigjfdsogjoifdsjgoirjaoigjgoirejgoijs</summary></entry><entry><title type="html">2019dfkGetting Started</title><link href="/posts/go19/" rel="alternate" type="text/html" title="2019dfkGetting Started" /><published>2019-02-09T20:55:00+08:00</published><updated>2019-02-09T20:55:00+08:00</updated><id>/posts/go19</id><content type="html" xml:base="/posts/go19/">&lt;p&gt;jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
 ..
 jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
 ..
