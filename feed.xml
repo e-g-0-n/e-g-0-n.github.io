@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-03-14T02:48:58+08:00</updated><id>/feed.xml</id><title type="html">eg0n.com</title><subtitle>A site for music created by eg0n on his modular synthesizer.</subtitle><author><name>eg0n</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-03-13T14:28:51+08:00</published><updated>2021-03-13T14:28:51+08:00</updated><id>/posts/welcome-to-jekyll</id><content type="html" xml:base="/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>eg0n</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Getting Started</title><link href="/posts/testing/" rel="alternate" type="text/html" title="Getting Started" /><published>2021-02-09T20:55:00+08:00</published><updated>2021-02-09T20:55:00+08:00</updated><id>/posts/testing</id><content type="html" xml:base="/posts/testing/">&lt;h2 id=&quot;titles&quot;&gt;Titles&lt;/h2&gt;
+
+&lt;p&gt;Follow the &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll Docs&lt;/a&gt; to complete the installation of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ruby&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;RubyGems&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;There are two ways to get the theme:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Install from RubyGems&lt;/strong&gt; - Easy to update, isolate irrelevant project files so you can focus on writing.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fork on GitHub&lt;/strong&gt; - Convenient for custom development, but difficult to update, only suitable for web developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;installing-the-theme-gem&quot;&gt;Installing the Theme Gem&lt;/h1&gt;
+
+&lt;p&gt;Here’s how to do images:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../egonAsciiTwinkie.png&quot; alt=&quot;img-description&quot; /&gt;
+&lt;em&gt;Image Caption&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a youtube:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here is a vimeo:&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/517384740&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">Titles</summary></entry><entry><title type="html">2019dfkGetting Started</title><link href="/posts/go19/" rel="alternate" type="text/html" title="2019dfkGetting Started" /><published>2019-02-09T20:55:00+08:00</published><updated>2019-02-09T20:55:00+08:00</updated><id>/posts/go19</id><content type="html" xml:base="/posts/go19/">&lt;p&gt;jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..
+jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf
+..&lt;/p&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf .. jfoijr3igotgjfoiejafoidjaoifjeaiojfeoiwajfoiajfoiajfoidjsaoifjdsaoifjdsaoifjdoisajfd;oisajfoidsajf ..</summary></entry><entry><title type="html">2018dfkGetting Started</title><link href="/posts/fkj18/" rel="alternate" type="text/html" title="2018dfkGetting Started" /><published>2018-02-09T20:55:00+08:00</published><updated>2018-02-09T20:55:00+08:00</updated><id>/posts/fkj18</id><content type="html" xml:base="/posts/fkj18/">&lt;p&gt;jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl
+jfkdlsjafklda
+fdjsafjdsakfd
+fdsafjdksla
+fjdklsajfdklsajfdsakl&lt;/p&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl jfkdlsjafklda fdjsafjdsakfd fdsafjdksla fjdklsajfdklsajfdsakl</summary></entry><entry><title type="html">2017dfkGetting Started</title><link href="/posts/jfd17/" rel="alternate" type="text/html" title="2017dfkGetting Started" /><published>2017-02-09T20:55:00+08:00</published><updated>2017-02-09T20:55:00+08:00</updated><id>/posts/jfd17</id><content type="html" xml:base="/posts/jfd17/">&lt;p&gt;jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+.jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew
+…
+……..&lt;/p&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … .jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjiorjih4oijrf8943kd4j398fj349fj98rewfj98rewjf98rewjfrew … ……..</summary></entry><entry><title type="html">Getting Started but copied</title><link href="/posts/test/" rel="alternate" type="text/html" title="Getting Started but copied" /><published>2016-08-09T20:55:00+08:00</published><updated>2016-08-09T20:55:00+08:00</updated><id>/posts/test</id><content type="html" xml:base="/posts/test/">&lt;p&gt;jfdksjafdijfoijgoirjoigfrejif98ur9frehf98eh98fhrefhrejfoiejfoireajfoirejigforjeaoifjoiafjoirejfoieajfoiajoijafiajfoijoivjfdaoivndaviajifojreaoifjrewoifjrewoifjewoijfewiafjewaoijfoidsajfoidsajfidsajfoidsajfoidsajfoidsajfoidjsafoidsajfoidjsaoifjdsaoifjreaoifjaoijfdsapoifjoiewjfoiewjfjeoiwqjfoiewjfeoiwjfewoifjewoijfeoiwqjfoiewjfipoewjqfioewjfoiewjfwef ewfjewfjoieqfj&lt;/p&gt;</content><author><name>Cotes Chung</name></author><category term="Blogging" /><category term="Tutorial" /><category term="getting started" /><summary type="html">jfdksjafdijfoijgoirjoigfrejif98ur9frehf98eh98fhrefhrejfoiejfoireajfoirejigforjeaoifjoiafjoirejfoieajfoiajoijafiajfoijoivjfdaoivndaviajifojreaoifjrewoifjrewoifjewoijfewiafjewaoijfoidsajfoidsajfidsajfoidsajfoidsajfoidsajfoidjsafoidsajfoidjsaoifjdsaoifjreaoifjaoijfdsapoifjoiewjfoiewjfjeoiwqjfoiewjfeoiwjfewoifjewoijfeoiwqjfoiewjfipoewjqfioewjfoiewjfwef ewfjewfjoieqfj</summary></entry><entry><title type="html">2016dfkGetting Started</title><link href="/posts/jf16/" rel="alternate" type="text/html" title="2016dfkGetting Started" /><published>2016-02-09T20:55:00+08:00</published><updated>2016-02-09T20:55:00+08:00</updated><id>/posts/jf16</id><content type="html" xml:base="/posts/jf16/">&lt;p&gt;ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a
+lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l&lt;/p&gt;
+
+&lt;p&gt;ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a
+lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l&lt;/p&gt;
+
+&lt;p&gt;ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a
+lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l&lt;/p&gt;
+
+&lt;p&gt;ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a
+lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l&lt;/p&gt;
+
+&lt;p&gt;ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a
+lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l&lt;/p&gt;</content><author><name>eg0n</name></author><category term="first" /><category term="getting started" /><summary type="html">ifjdilsajfidsajfdisoajfdsoiajfdfjdsajfdsajfdsjaklf;dsajfkdl;sajfkld;sajfkld;sajfkld;sajfkdls;a lfjdskaljfdlksajfkd;lsja;lkfjdslka;jfkld;sajlkfdjsalkfjdsaklfjdsak;l</summary></entry><entry><title type="html">Getting Started but copied</title><link href="/posts/testtt/" rel="alternate" type="text/html" title="Getting Started but copied" /><published>2015-08-09T20:55:00+08:00</published><updated>2015-08-09T20:55:00+08:00</updated><id>/posts/testtt</id><content type="html" xml:base="/posts/testtt/"></content><author><name>Cotes Chung</name></author><category term="Blogging" /><category term="Tutorial" /><category term="getting started" /><summary type="html"></summary></entry><entry><title type="html">2015fkGetting Started</title><link href="/posts/jdfkd15/" rel="alternate" type="text/html" title="2015fkGetting Started" /><published>2015-02-09T20:55:00+08:00</published><updated>2015-02-09T20:55:00+08:00</updated><id>/posts/jdfkd15</id><content type="html" xml:base="/posts/jdfkd15/">&lt;p&gt;jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds
+jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds&lt;/p&gt;</content><author><name>eg0n</name></author><category term="first" /><category term="getting started" /><summary type="html">jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds jfkdlsjafkldsjafkldjsakfldjsalkf;dsajlkf;iroewquriewoqurpoiewjqlkfjdsafeiojrflkdsijflkmdsijfijfldsfjds</summary></entry><entry><title type="html">2014fkGetting Started</title><link href="/posts/jf14/" rel="alternate" type="text/html" title="2014fkGetting Started" /><published>2014-02-09T20:55:00+08:00</published><updated>2014-02-09T20:55:00+08:00</updated><id>/posts/jf14</id><content type="html" xml:base="/posts/jf14/">&lt;p&gt;jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i8750984320958432905809432850942835098432095555555&lt;/p&gt;</content><author><name>eg0n</name></author><category term="Blogging" /><category term="Tutorial" /><category term="first" /><category term="getting started" /><summary type="html">jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i875098432095843290580943285094283509843209jkfldjsaf;kldjskfaljdslkfjdlksajfi3jf43i8750984320958432905809432850942835098432095555555</summary></entry></feed>
